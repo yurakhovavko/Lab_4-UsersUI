@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Notes</string>
-    <string name="header">header</string>
-    <string name="content">content</string>
+    <string name="header">Header</string>
+    <string name="content">Content</string>
     <string name="on_dark_theme">on_dark_theme</string>
     <string name="basket">basket</string>
     <string name="notes">notes</string>

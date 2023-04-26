@@ -45,6 +45,7 @@ fun Note(){
             modifier = Modifier
                 .weight(1f)
                 .align(Alignment.CenterVertically)
+
         ) {
             Text(
                 text = stringResource(id = R.string.header),

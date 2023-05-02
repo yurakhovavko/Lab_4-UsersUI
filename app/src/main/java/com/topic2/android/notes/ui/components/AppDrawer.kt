@@ -1,4 +1,4 @@
-package ui.com.topic2.android.notes.ui.components
+package com.topic2.android.notes.ui.components
 
 
 import com.topic2.android.notes.R
